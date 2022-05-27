@@ -30,7 +30,7 @@
 - **URL:**
     **`GET`**  https://mservice.ebook.hyread.com.tw/exam/user-list
 
-- **Request:**
+- **Request header:**
     | header|  value|
     |:--:|:--:|
     |Content-type| application/json|
