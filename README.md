@@ -4,7 +4,7 @@
 
 ## 1. 流程
 
-1. 請自行一個建立 **XCode** 專案
+1. 請自行建立 **XCode** 專案
 2. 這裡有一個基礎 [Figma](https://www.figma.com/file/4aAUNkjFEd8q5RF1zbzCrI/HyRead?node-id=0%3A1) 設計稿 👋
 3. 請您盡可能的建立一個**好的架構**、**乾淨的代碼** ✨
 4. **實作服務請求**👇拿到『使用者書單』資料 📕
